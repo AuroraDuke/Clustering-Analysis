@@ -1,0 +1,25 @@
+Dataset 03 - Deep Neural Clustering with 2 clusters, Silhouette Score: 0.4557
+Dataset 03 - Deep Neural Clustering with 3 clusters, Silhouette Score: 0.4096
+Dataset 03 - Deep Neural Clustering with 4 clusters, Silhouette Score: 0.4075
+Dataset 03 - Deep Neural Clustering with 5 clusters, Silhouette Score: 0.3840
+Dataset 03 - Deep Neural Clustering with 6 clusters, Silhouette Score: 0.4018
+Dataset 03 - Deep Neural Clustering with 7 clusters, Silhouette Score: 0.4070
+Dataset 03 - Deep Neural Clustering with 8 clusters, Silhouette Score: 0.4102
+Dataset 03 - Deep Neural Clustering with 9 clusters, Silhouette Score: 0.4308
+Dataset 03 - Deep Neural Clustering with 10 clusters, Silhouette Score: 0.4562
+K-means 2 clusters - Silhouette Score: 0.2949
+K-means 3 clusters - Silhouette Score: 0.2318
+K-means 4 clusters - Silhouette Score: 0.2292
+K-means 5 clusters - Silhouette Score: 0.2363
+K-means 6 clusters - Silhouette Score: 0.2410
+K-means 7 clusters - Silhouette Score: 0.2496
+K-means 8 clusters - Silhouette Score: 0.2420
+K-means 9 clusters - Silhouette Score: 0.2214
+K-means 10 clusters - Silhouette Score: 0.1850
+DBSCAN with eps=0.1, min_samples=3: Silhouette Score = 0.4554
+DBSCAN with eps=0.1, min_samples=4: Silhouette Score = 0.4672
+DBSCAN with eps=0.1, min_samples=5: Silhouette Score = 0.5205
+DBSCAN with eps=0.1, min_samples=6: Silhouette Score = 0.5832
+DBSCAN with eps=0.1, min_samples=7: Silhouette Score = 0.5613
+DBSCAN with eps=0.1, min_samples=8: Silhouette Score = 0.6393
+DBSCAN with eps=0.2, min_samples=8: Silhouette Score = 0.2694

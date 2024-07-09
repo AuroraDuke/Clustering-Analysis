@@ -1,0 +1,39 @@
+K-means Results:
+K-means 2 clusters - Silhouette Score: 0.06561172867930795
+K-means 3 clusters - Silhouette Score: 0.04567925469182742
+K-means 4 clusters - Silhouette Score: 0.039671922821198545
+K-means 5 clusters - Silhouette Score: 0.03625362527440281
+K-means 6 clusters - Silhouette Score: 0.03665684557560245
+K-means 7 clusters - Silhouette Score: 0.03479131293054492
+K-means 8 clusters - Silhouette Score: 0.02724474504561326
+K-means 9 clusters - Silhouette Score: 0.03572712688152114
+K-means 10 clusters - Silhouette Score: 0.0440986171695077
+
+DBSCAN Results:
+DBSCAN with eps=0.3, min_samples=3 - All points are marked as noise.
+DBSCAN with eps=0.3, min_samples=5 - All points are marked as noise.
+DBSCAN with eps=0.3, min_samples=7 - All points are marked as noise.
+DBSCAN with eps=0.3, min_samples=9 - All points are marked as noise.
+DBSCAN with eps=0.5, min_samples=3 - All points are marked as noise.
+DBSCAN with eps=0.5, min_samples=5 - All points are marked as noise.
+DBSCAN with eps=0.5, min_samples=7 - All points are marked as noise.
+DBSCAN with eps=0.5, min_samples=9 - All points are marked as noise.
+DBSCAN with eps=0.7, min_samples=3 - All points are marked as noise.
+DBSCAN with eps=0.7, min_samples=5 - All points are marked as noise.
+DBSCAN with eps=0.7, min_samples=7 - All points are marked as noise.
+DBSCAN with eps=0.7, min_samples=9 - All points are marked as noise.
+DBSCAN with eps=0.9, min_samples=3 - All points are marked as noise.
+DBSCAN with eps=0.9, min_samples=5 - All points are marked as noise.
+DBSCAN with eps=0.9, min_samples=7 - All points are marked as noise.
+DBSCAN with eps=0.9, min_samples=9 - All points are marked as noise.
+
+Deep Neural Clustering Results:
+Dataset 02 - Deep Neural Clustering with 2 clusters, Silhouette Score: 0.4123506546020508
+Dataset 02 - Deep Neural Clustering with 3 clusters, Silhouette Score: 0.49337878823280334
+Dataset 02 - Deep Neural Clustering with 4 clusters, Silhouette Score: 0.4246889650821686
+Dataset 02 - Deep Neural Clustering with 5 clusters, Silhouette Score: 0.41612446308135986
+Dataset 02 - Deep Neural Clustering with 6 clusters, Silhouette Score: 0.42476916313171387
+Dataset 02 - Deep Neural Clustering with 7 clusters, Silhouette Score: 0.41599932312965393
+Dataset 02 - Deep Neural Clustering with 8 clusters, Silhouette Score: 0.42056745290756226
+Dataset 02 - Deep Neural Clustering with 9 clusters, Silhouette Score: 0.4069322645664215
+Dataset 02 - Deep Neural Clustering with 10 clusters, Silhouette Score: 0.3832798898220062
